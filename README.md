@@ -55,8 +55,8 @@ O projeto foi desenvolvido em **Python** com **Kivy** para a interface gráfica 
 > Abaixo, algumas telas do sistema em execução:
 
 | Tela Inicial |
-| ![Tela Inicial](PROJETOS/tela_inicial.png)
 |--------------|
+| ![Tela Inicial](PROJETOS/tela_inicial.png) |
 
 | Gerenciar Mão de Obra | Gerenciar Módulos |
 |-----------------------|-------------------|
