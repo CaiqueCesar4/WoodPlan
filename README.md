@@ -72,19 +72,33 @@ O projeto foi desenvolvido em **Python** com **Kivy** para a interface gráfica 
 
 WoodPlan/app/
 │
+
 ├── main.py # Arquivo principal do aplicativo
+
 ├── data.py # Gerenciamento do banco de dados SQLite
+
 │
+
 ├── telas/
+
 │ ├── tela_inicial.py # Tela inicial
+
 │ ├── gerenciamento_modulos.py # Tela de gerenciamento de módulos
+
 │ ├── gerenciamento_mao_de_obra.py # Tela de gerenciamento da mão de obra
+
 │ ├── orcamento_modulo.py # Etapa 1 da criação do orçamento
+
 │ ├── orcamento_mao_de_obra.py # Etapa 2 da criação do orçamento
+
 │ └── historico_orcamentos.py # Tela de histórico de orçamentos
+
 │
+
 ├── theme.kv # Arquivo de tema e estilo global
+
 ├── orcamento.db # Banco de dados SQLite
+
 └── PROJETOS/ # Pasta para imagens de prévia
 
 ---
