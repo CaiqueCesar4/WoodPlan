@@ -56,15 +56,15 @@ O projeto foi desenvolvido em **Python** com **Kivy** para a interface gráfica 
 
 | Tela Inicial |
 |--------------|
-| ![Tela Inicial](PROJETOS/tela_inicial.png) |
+| ![Tela Inicial](WoodPlan/PROJETOS/tela_inicial.png) |
 
 | Gerenciar Mão de Obra | Gerenciar Módulos |
 |-----------------------|-------------------|
-| ![Tela Inicial](PROJETOS/gerenciar_mao_de_obra.png) | ![Gerenciar Módulos](PROJETOS/gerenciar_modulos.png) |
+| ![Tela Inicial](WoodPlan/PROJETOS/gerenciar_mao_de_obra.png) | ![Gerenciar Módulos](WoodPlan/PROJETOS/gerenciar_modulos.png) |
 
 | Orçamento - Módulos | Orçamento - Mão de Obra |
 |---------------------|-------------------------|
-| ![Orçamento Módulo](PROJETOS/orcamento_modulo.png) | ![Orçamento Mão de Obra](PROJETOS/orcamento_mao_de_obra.png) |
+| ![Orçamento Módulo](WoodPlan/PROJETOS/orcamento_modulo.png) | ![Orçamento Mão de Obra](WoodPlan/PROJETOS/orcamento_mao_de_obra.png) |
 
 ---
 
